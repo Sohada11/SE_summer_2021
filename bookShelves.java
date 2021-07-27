@@ -6,6 +6,7 @@ public class bookShelves{
        Scanner sc = new Scanner(System.in); 
        System.out.println("Enter number of Books on shelf1: ");
        int tBooks = sc.nextInt();
+        System.out.println("Hello world");
        
        
        String[] bookshelf1 = new String[tBooks];
